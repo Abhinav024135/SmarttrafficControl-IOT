@@ -1,0 +1,9 @@
+column_name,data_type,sample_value_1,sample_value_2,sample_value_3,nullable,description_fill_in
+timestamp,object/numeric,2024-01-01 00:00:00,2024-01-01 00:02:00,2024-01-01 00:04:00,No,timestamp — [Learner to fill in description]
+intersection_id,object/numeric,J02_Station,J02_Station,J03_Market,No,intersection_id — [Learner to fill in description]
+lane_id,object/numeric,Lane_N,Lane_W,Lane_W,No,lane_id — [Learner to fill in description]
+vehicle_count,object/numeric,16,30,5,No,vehicle_count — [Learner to fill in description]
+green_duration_s,object/numeric,36,42,32,No,green_duration_s — [Learner to fill in description]
+red_duration_s,object/numeric,84,78,88,No,red_duration_s — [Learner to fill in description]
+peak_hour,object/numeric,0,0,0,No,peak_hour — [Learner to fill in description]
+emergency_flag,object/numeric,0,0,0,No,emergency_flag — [Learner to fill in description]

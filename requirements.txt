@@ -1,0 +1,7 @@
+# Python dependencies for Smart Traffic Light Control System
+# Install with: python -m pip install -r requirements.txt
+
+streamlit
+pandas
+numpy
+plotly
